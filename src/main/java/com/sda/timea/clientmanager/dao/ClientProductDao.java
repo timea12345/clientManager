@@ -18,8 +18,8 @@ public class ClientProductDao {
         return clientProduct;
     }
 
+    //testing git
 //    public List<ClientProduct> getProductsFromMonth() {
-//
 //    }
 
 }
